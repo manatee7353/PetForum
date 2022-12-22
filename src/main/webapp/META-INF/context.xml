@@ -1,6 +1,6 @@
 <Context>
 	<Resource name="jdbc/MSSQL" type="javax.sql.DataSource"
-		auth="Container" username="sa" password="1234"
+		auth="Container" username="sa" password="sa123456"
 		driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
-		url="jdbc:sqlserver://192.168.80.128:1433;trustServerCertificate=true" />
+		url="jdbc:sqlserver://Localhost:1433;trustServerCertificate=true" />
 </Context>

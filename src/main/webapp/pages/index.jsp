@@ -71,18 +71,3 @@
 
 </html>
 
-
-<%-- 					<c:if test="${user!=null }"> --%>
-<!-- 						<a href="#" -->
-<!-- 							class="d-block link-dark text-decoration-none dropdown-toggle" -->
-<!-- 							id="dropdownUser1" data-bs-toggle="dropdown" -->
-<%-- 							aria-expanded="false"> <img src="${user.getPhoto() }" --%>
-<%-- 							width="45" height="45" class="rounded-circle"> <span>${user.account }</span> --%>
-<!-- 						</a> -->
-<!-- 						<ul class="dropdown-menu text-small" -->
-<!-- 							aria-labelledby="dropdownUser1"> -->
-<!-- 							<li><a class="dropdown-item" href="#">會員資訊(建置中)</a></li> -->
-<!-- 							<li><hr class="dropdown-divider"></li> -->
-<!-- 							<li><a class="dropdown-item" href="/PetForum/UserLogout.do">登出</a></li> -->
-<!-- 						</ul> -->
-<!-- 					</c:if> -->
